@@ -6,9 +6,9 @@
 - Figma
 - Images
 
-**Intro**
+**Description**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project was basically used to give us an intro into Figma and learning how to create media inquires. To change the view of a site from desktop to mobile having the elements within each view point act appropriately. The technologies used is git hub, vs code and figma. We learned how to use the inspect tool to see how the project looks a different views. I learned how to use different codes to adjust the correct sizes for images and text.
 
 **Figma**
 
@@ -17,7 +17,3 @@ This project is made so all the elements are displayed correctly on popular scre
 **Images**
 
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
-
-test text
