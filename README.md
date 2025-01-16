@@ -16,4 +16,9 @@ This project was basically used to give us an intro into Figma and learning how 
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
+<div>
+<img align="center" alt="Desktop View" src="./images/Desktop View .jpg">
+<br />
+<img align="center" alt="Mobile View" src="./images/Mobile View .jpg">
+<br />
+</div>
