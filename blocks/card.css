@@ -14,7 +14,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 20px;
+  margin-top: 12px;
   width: 100%;
 }
 
@@ -27,6 +27,7 @@
   background-color: transparent;
   background-size: contain;
   background-repeat: no-repeat;
+  cursor: pointer;
 }
 
 .card__like-button:hover {

@@ -29,4 +29,4 @@ This project was basically used to give us an intro into Figma and learning how 
 <br />
 </div>
 
-**Video** -[Link to video for this project](https://drive.google.com/drive/folders/1hAyAP4yu4rhzmcWGP2zAd0cvHbL3RW53?dmr=1&ec=wgc-drive-globalnav-goto)
+**Video** -[Link to video for this project](https://drive.google.com/drive/folders/1hAyAP4yu4rhzmcWGP2zAd0cvHbL3RW53?usp=sharing)
